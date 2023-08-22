@@ -5,3 +5,13 @@ Este projeto foi realizado durante uma aula da disciplina "Web Mobile" no segund
 > O próximo passo no desenvolvimento é criar um Super Trunfo: o usuário sorteará um herói e escolherá um poder para comparar contra seu adversário (Computador). Quem tiver o maior valor, vence.
 
 ## O que é a SuperHero API?
+
+A SuperHero API reúne informações sobre os mais variados personagens existentes na ficção. Traz informações como:
+- Atributos (força, inteligência, velocidade, etc);
+- Biografia (nome, lugar de nascimento, primeira aparição, etc);
+- Aparência (gênero, raça, cor dos olhos, etc);
+- Trabalho ou ocupação;
+- Conexões (afiliações, relações com outros personagens) e
+- Uma foto.
+<br>
+Os dados podem ser consumidos a partir de uma API REST. Para entender melhor, consulte a <a href="https://superheroapi.com/index.html" target="_blank">documentação</a>.
